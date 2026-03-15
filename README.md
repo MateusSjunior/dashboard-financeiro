@@ -58,24 +58,6 @@ Este projeto nasceu da necessidade de responder perguntas financeiras estratégi
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-dashboard-financeiro/
-│
-├── 📂 dados/
-│   └── dados_financeiros.xlsx       # Fonte de dados (anonimizada)
-│
-├── 📂 dashboard/
-│   └── dashboard_financeiro.pbix    # Arquivo Power BI
-│
-├── 📂 prints/
-│   ├── visao_geral.png              # Print da tela principal
-│   ├── analise_mensal.png           # Evolução mensal do lucro
-│   └── analise_pagamentos.png       # Distribuição por tipo de pagamento
-│
-└── README.md
-```
 
 ## ⚙️ Como Abrir o Dashboard
 
