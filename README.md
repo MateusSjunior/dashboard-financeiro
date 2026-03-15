@@ -90,7 +90,7 @@ dashboard-financeiro/
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**[Mateus da Silva Junior]**
 Analista de Dados em formação | Power BI · Excel · SQL · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-junior-7ab55b144/)
