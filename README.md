@@ -8,7 +8,7 @@
 ## 🖥️ Visualizações do Dashboard
 
 **Tela principal — Visão Geral**
-![Visão Geral]()
+![Visão Geral](https://github.com/MateusSjunior/dashboard-financeiro/blob/main/Dashboard%20Financeiro.png)
 
 
 ---
